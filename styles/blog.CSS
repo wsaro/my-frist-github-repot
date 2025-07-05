@@ -1,4 +1,5 @@
 div{
-    background-color: tomato;
+    background-color: rgba(71, 255, 129, 0.667);
     padding: 10px;
+    margin-bottom: 10px;
 }
